@@ -1,0 +1,6 @@
+@BatresA.MC_1SayHello_Endpoint_HostAddress = http://localhost:5051
+
+GET {{BatresA.MC_1SayHello_Endpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

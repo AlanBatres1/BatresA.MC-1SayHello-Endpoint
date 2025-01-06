@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BatresA.MC#1SayHello-Endpoint.props" />
+</Project>
