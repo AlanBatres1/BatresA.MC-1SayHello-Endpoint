@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/alanbatres/.nuget/packages/": {}
+    "/Users/davidmonterrosa/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alanbatres/Documents/Level 2/Week 1/BatresA.MC#1SayHello-Endpoint/BatresA.MC#1SayHello-Endpoint.csproj",
+      "projectUniqueName": "/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/BatresA.MC#1SayHello-Endpoint.csproj",
       "projectName": "BatresA.MC#1SayHello-Endpoint",
-      "projectPath": "/Users/alanbatres/Documents/Level 2/Week 1/BatresA.MC#1SayHello-Endpoint/BatresA.MC#1SayHello-Endpoint.csproj",
-      "packagesPath": "/Users/alanbatres/.nuget/packages/",
-      "outputPath": "/Users/alanbatres/Documents/Level 2/Week 1/BatresA.MC#1SayHello-Endpoint/obj/",
+      "projectPath": "/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/BatresA.MC#1SayHello-Endpoint.csproj",
+      "packagesPath": "/Users/davidmonterrosa/.nuget/packages/",
+      "outputPath": "/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/alanbatres/.nuget/NuGet/NuGet.Config"
+        "/Users/davidmonterrosa/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

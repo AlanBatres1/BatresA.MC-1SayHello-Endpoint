@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BatresA.MC#1SayHello-Endpoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f93ee6ed86b6cb98d3e36002746a868976847ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("BatresA.MC#1SayHello-Endpoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BatresA.MC#1SayHello-Endpoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

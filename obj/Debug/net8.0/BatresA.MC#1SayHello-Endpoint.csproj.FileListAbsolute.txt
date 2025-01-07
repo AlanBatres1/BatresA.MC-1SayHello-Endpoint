@@ -30,3 +30,36 @@
 /Users/alanbatres/Documents/Level 2/Week 1/BatresA.MC#1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.pdb
 /Users/alanbatres/Documents/Level 2/Week 1/BatresA.MC#1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.genruntimeconfig.cache
 /Users/alanbatres/Documents/Level 2/Week 1/BatresA.MC#1SayHello-Endpoint/obj/Debug/net8.0/ref/BatresA.MC#1SayHello-Endpoint.dll
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/appsettings.Development.json
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/appsettings.json
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/BatresA.MC#1SayHello-Endpoint
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.deps.json
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.runtimeconfig.json
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.dll
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.pdb
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.csproj.AssemblyReference.cache
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.AssemblyInfoInputs.cache
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.AssemblyInfo.cs
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.csproj.CoreCompileInputs.cache
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.MvcApplicationPartsAssemblyInfo.cs
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.MvcApplicationPartsAssemblyInfo.cache
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.sourcelink.json
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/staticwebassets.build.json
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/staticwebassets.development.json
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/staticwebassets/msbuild.BatresA.MC#1SayHello-Endpoint.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/staticwebassets/msbuild.build.BatresA.MC#1SayHello-Endpoint.props
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BatresA.MC#1SayHello-Endpoint.props
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BatresA.MC#1SayHello-Endpoint.props
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/scopedcss/bundle/BatresA.MC#1SayHello-Endpoint.styles.css
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA..1FBF4D70.Up2Date
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.dll
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/refint/BatresA.MC#1SayHello-Endpoint.dll
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.pdb
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/BatresA.MC#1SayHello-Endpoint.genruntimeconfig.cache
+/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week1/BatresA.MC-1SayHello-Endpoint/obj/Debug/net8.0/ref/BatresA.MC#1SayHello-Endpoint.dll
